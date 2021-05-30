@@ -2577,7 +2577,9 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+
 }
+
 
 @media (max-width: 991.98px) {
   /* line 145, src/assets/scss/_tables.scss */

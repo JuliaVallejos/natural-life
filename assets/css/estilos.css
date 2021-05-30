@@ -132,7 +132,8 @@ p, a {font-weight: 400;}
   width: 100%;
   height: 70vh;
   background-image: url('../img/free.jpg');
-  background-size:cover;
+  background-size:contain;
+  background-repeat: no-repeat;
   background-position: center;
 }
 #work_banner {
